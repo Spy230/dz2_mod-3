@@ -37,4 +37,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/book-catalog.git
+   git clone https://github.com/Spy230/dz2_mod-3/tree/master
